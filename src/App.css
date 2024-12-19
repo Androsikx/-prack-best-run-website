@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'HD SANS', Arial, sans-serif;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #333;
+}
+
+.App {
+  text-align: center;
+}
