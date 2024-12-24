@@ -8,3 +8,14 @@
     margin-bottom: 20px;
   }
   
+  @media (max-width: 768px) {
+    .contact-section input,
+    .contact-section textarea {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    .contact-section button {
+      width: 100%;
+    }
+  }
